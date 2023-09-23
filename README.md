@@ -1,2 +1,3 @@
 # scripts
-Personal repo containing random snitched userscripts, python etc
+Personal repo userscripts that I made, or rendition-ed from someone else.
+
