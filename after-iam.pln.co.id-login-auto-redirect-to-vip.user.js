@@ -29,7 +29,7 @@
     }
   }
 
-  // Check for the popup every 5 minutes (300,000 milliseconds)....
+  // Check for the popup every 5 minutes (300,000 milliseconds).....
   const intervalId = setInterval(clickPopup, 100);
 
   // Stop checking when the popup is clicked or when you navigate away
